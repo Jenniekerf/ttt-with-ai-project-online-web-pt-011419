@@ -63,6 +63,7 @@ end
 def play 
   if !over?
     gets.strip
+  end
 end
   
   
