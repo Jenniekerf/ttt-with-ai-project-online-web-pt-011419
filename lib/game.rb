@@ -62,7 +62,7 @@ end
 
 def play 
   if !over?
-    
+    turn
   end
 end
   
