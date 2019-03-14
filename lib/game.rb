@@ -66,6 +66,7 @@ def play
   end
     if won? 
       puts "Congratulations!"
+      elsif over?
     end
 end
   
