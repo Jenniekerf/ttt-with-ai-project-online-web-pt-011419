@@ -5,8 +5,8 @@ module Players
   def move(board)
     move = nil
     
-    if !taken?(3)
-      
+    if !board.taken?(3)
+      move = "3"
     end
   end
   
