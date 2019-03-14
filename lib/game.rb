@@ -61,7 +61,7 @@ def turn
 end
 
 def play 
-  
+  over?
 end
   
   
