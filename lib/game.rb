@@ -65,7 +65,7 @@ def play
     turn
   end
     if won? 
-      
+      puts "Congratulations!"
     end
 end
   
