@@ -63,11 +63,10 @@ end
 def play 
   if !over?
     turn
-    if !won? || draw?
-      turn 
-    end
-    
   end
+    if won? 
+      
+    end
 end
   
   
