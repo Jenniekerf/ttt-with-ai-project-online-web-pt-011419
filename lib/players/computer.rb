@@ -2,8 +2,8 @@ module Players
 
   class Computer < Player
   
-  def move(board)
-    @board.valid_move?(board)
+  def move
+    move = nil
   end
   
 end
