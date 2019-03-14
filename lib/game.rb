@@ -63,7 +63,7 @@ end
 def play 
   if !over?
     turn
-  else 
+  won?
     
   end
 end
