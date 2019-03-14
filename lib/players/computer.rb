@@ -4,6 +4,10 @@ module Players
   
   def move(board)
     move = nil
+    
+    if !board_taken?
+      
+    end
   end
   
 end
