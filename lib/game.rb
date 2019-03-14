@@ -61,7 +61,8 @@ def turn
 end
 
 def play 
-  
+  puts "Please enter a number 1-9"
+  input = gets.strip
 end
   
   
